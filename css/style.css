@@ -4,7 +4,7 @@
 }
 
 .logo {
-    width: 23%;
+    width: 23% ;
     padding: 1%;
     text-align: center;
 }
@@ -37,4 +37,5 @@ li {
     display: inline-block;
     vertical-align: top;
     text-align: center;
+
 }
