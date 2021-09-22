@@ -19,6 +19,11 @@ ul {
     margin-left: auto;
 }
 
+ul.footer-ul{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
 .heroImg {
     height: 600px;
     padding: 25px;
@@ -31,11 +36,6 @@ ul {
 
 footer {
     background-color: #373738;
+    
 }
 
-li {
-    display: inline-block;
-    vertical-align: top;
-    text-align: center;
-
-}
